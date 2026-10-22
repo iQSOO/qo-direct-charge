@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-10-21T11:08:55.076Z" hostname="build-environment" time="0.696">
+  <properties />
+  <testcase name="transientReadTransportAndCommandFailuresAreRecoverable" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.043" />
+  <testcase name="changingTheWinningRuleCancelsThePreviousAttempt" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.0" />
+  <testcase name="higherPriorityDisableBlocksALandscapeRetry" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.001" />
+  <testcase name="protectionPermissionAndManualConflictsDoNotRetry" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.0" />
+  <testcase name="bypassTimeoutRetriesThenSucceedsAndStillRestoresTheOriginalState" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.504" />
+  <testcase name="portraitCancelsRetryEvenWhileExitDelayIsStillPending" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.004" />
+  <testcase name="successClearsTheRetryAndRestartsBackoffForTheNextFailure" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.0" />
+  <testcase name="repeatedEvaluationDoesNotMoveTheDeadline" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.0" />
+  <testcase name="repeatedFailuresBackOffAndContinueAtThirtySeconds" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.001" />
+  <testcase name="highTemperatureCooldownCannotReenableBeforeHysteresisRecovery" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.0" />
+  <testcase name="onlyConfirmedWiredLandscapeWithSafeDataCanRetry" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.077" />
+  <testcase name="absentEligibilityCancelsAndDoesNotReplayAnOldTimer" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.001" />
+  <testcase name="missingForegroundEvidenceDoesNotRetryUsingAGuess" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.001" />
+  <testcase name="settingsRollbackCanBeRetriedWithoutFalseManualOverride" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.02" />
+  <testcase name="manualChangeDuringRetryDelayTakesPriority" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.02" />
+  <testcase name="restoreDisableAndPendingDecisionsNeverAuthorizeEnableRetries" classname="com.iqsoo.qodirect.automation.AutomaticEnableRetryTest" time="0.001" />
+  <system-out />
+  <system-err />
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="com.iqsoo.qodirect.automation.RuleEngineTest" tests="35" skipped="0" failures="0" errors="0" timestamp="2026-10-21T11:08:54.916Z" hostname="build-environment" time="0.138">
+  <properties />
+  <testcase name="lowBatteryCannotEnable" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.006" />
+  <testcase name="disablingPauseRuleClearsRulePause" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.004" />
+  <testcase name="screenOffKeepPolicyHasNoDeadline" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.003" />
+  <testcase name="disconnectStopsSecondaryRulesAndOnlyRequestsSafeExit" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="rapidRotationCancelsPending" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="wakingCancelsScreenDeadline" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="blacklistDoesNotBlockScreenTimeout" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="nativeManualControlHasPriority" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="screenOffRestoresAtSixtySeconds" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="appRulesSwitchWithoutDisableGap" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.025" />
+  <testcase name="manualPauseHasPriority" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="temperatureUsesHysteresis" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="highTemperatureBypassesDebounce" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="portraitExitsAfterTenSeconds" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="aodAndLockedScreenStillExpireWhenNotInteractive" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="batteryStatusIsNotPowerConnection" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="allDayTimeWindow" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="restartReevaluatesWithoutRememberedEnable" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="unknownAppCannotBeInvertedToTrue" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="unknownBatteryNeverEnables" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="unknownAppDoesNotTriggerDelayedExit" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="rulePauseCanBeResumedByAnotherRule" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.012" />
+  <testcase name="unplugIsUrgent" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.003" />
+  <testcase name="landscapeRequiresContinuousTwoSeconds" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="effectsRunOncePerConditionEntry" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="highestPriorityWins" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="wirelessCannotEnable" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="brightLockScreenCancelsPendingScreenOffExit" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="screenHoldRuleIsExplicit" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="cancelSuppressesPendingEnable" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="logicalAndOrAndNot" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.001" />
+  <testcase name="timeRangeCrossesMidnight" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="foregroundBlacklistRestores" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="revokedUsageAccessMakesCachedForegroundUnknown" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.0" />
+  <testcase name="invalidImportsAreRejected" classname="com.iqsoo.qodirect.automation.RuleEngineTest" time="0.033" />
+  <system-out />
+  <system-err />
+</testsuite>

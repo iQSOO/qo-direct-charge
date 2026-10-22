@@ -1,0 +1,62 @@
+{
+  "apk": "app-debug.apk",
+  "sha256": "bcdfde0190b952d22826140af3a3ec9b4d5fd7e0a3e326518897b55328083f2d",
+  "bytes": 30503946,
+  "package": "com.iqsoo.qodirect",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "targetSdk": 36,
+  "minSdk": 29,
+  "zipCrc": "passed",
+  "signatureV2": "passed",
+  "signing": "Android Debug",
+  "certificateSha256": "92108a18f3b86ee7bffe7cd072bf14c68393d68c06642487a511e4bed50c6002",
+  "zipAlignment16K": "passed",
+  "nativeElfLoadAlignments": {
+    "lib/arm64-v8a/libandroidx.graphics.path.so": [
+      16384,
+      16384,
+      16384
+    ],
+    "lib/arm64-v8a/libdatastore_shared_counter.so": [
+      16384,
+      16384,
+      16384
+    ],
+    "lib/armeabi-v7a/libandroidx.graphics.path.so": [
+      16384,
+      16384,
+      16384
+    ],
+    "lib/armeabi-v7a/libdatastore_shared_counter.so": [
+      16384,
+      16384
+    ],
+    "lib/x86/libandroidx.graphics.path.so": [
+      16384,
+      16384,
+      16384
+    ],
+    "lib/x86/libdatastore_shared_counter.so": [
+      16384,
+      16384
+    ],
+    "lib/x86_64/libandroidx.graphics.path.so": [
+      16384,
+      16384,
+      16384
+    ],
+    "lib/x86_64/libdatastore_shared_counter.so": [
+      16384,
+      16384
+    ]
+  },
+  "architecture": [
+    "arm64-v8a",
+    "armeabi-v7a",
+    "x86",
+    "x86_64"
+  ],
+  "physicalDeviceTest": "NOT RUN",
+  "emulatorTest": "NOT RUN"
+}

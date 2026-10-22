@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-21T11:08:56.372Z" hostname="build-environment" time="0.012">
+  <properties />
+  <testcase name="samePackageMultipleActivitiesRemainKnown" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.003" />
+  <testcase name="reseedingNeverReusesPreviousForeground" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <testcase name="multiWindowDoesNotGuessWhichAppIsTop" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <testcase name="screenOffOrShutdownClearsEvidence" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <testcase name="pauseRemovesForeground" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <testcase name="powerOrPermissionTransitionRejectsOldQueryResults" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <testcase name="requiresActualResumeEvidence" classname="com.iqsoo.qodirect.monitoring.ForegroundEvidenceTest" time="0.0" />
+  <system-out />
+  <system-err />
+</testsuite>

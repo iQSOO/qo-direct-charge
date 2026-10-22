@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="com.iqsoo.qodirect.charging.ControllerTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-10-21T11:08:55.796Z" hostname="build-environment" time="0.557">
+  <properties />
+  <testcase name="timedOutWriteThatActuallySucceededIsReadBeforeRetryAndCanRestore" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.023" />
+  <testcase name="restoringAfterAFullRollbackDoesNotWriteOrClaimManualChange" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.019" />
+  <testcase name="duplicateRetryRequestsAreSerializedAndMergedAfterRecovery" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.045" />
+  <testcase name="disconnectDropsLeaseWithoutBlindWrite" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.008" />
+  <testcase name="bypassMismatchTimesOut" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.017" />
+  <testcase name="failedExitIsNotSuccess" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.014" />
+  <testcase name="failedRefreshDoesNotPresentOldFlagsAsCurrent" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.011" />
+  <testcase name="restoreChecksForRace" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.011" />
+  <testcase name="transportTimeoutReportsFailureAndCanRetry" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.013" />
+  <testcase name="wallClockRollbackCannotExtendConfirmationTimeout" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.02" />
+  <testcase name="duplicateRequestsAreCoalesced" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.022" />
+  <testcase name="disableVerifiesBothFlagsFromEnabledState" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.015" />
+  <testcase name="revokedPermissionReportsTransportFailure" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.014" />
+  <testcase name="oemSettingsRollbackIsNotSuccess" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.023" />
+  <testcase name="shellUidIsRequired" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.016" />
+  <testcase name="partialWriteWithNonzeroExitStillRetainsTheOriginalBaseline" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.022" />
+  <testcase name="stoppingAfterUncertainWriteRestoresOnlyAfterReadingReality" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.015" />
+  <testcase name="failedCommandStillReadsActualPostCommandState" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.016" />
+  <testcase name="preservesNativeManualChanges" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.006" />
+  <testcase name="delayedBypassConfirmationDoesNotNeedAnotherEnableWrite" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.017" />
+  <testcase name="noOwnershipOfAlreadyEnabledNativeState" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.01" />
+  <testcase name="timedOutWriteThatDidNotStickCanRetryWithoutManualConflict" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.02" />
+  <testcase name="processRestartNeverReplaysPreviousValue" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.014" />
+  <testcase name="enableVerifiesReadback" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.014" />
+  <testcase name="unsafeRestoreNeverWritesEnable" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.012" />
+  <testcase name="restoresOriginalFalse" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.011" />
+  <testcase name="unsupportedDeviceCannotEnable" classname="com.iqsoo.qodirect.charging.ControllerTest" time="0.017" />
+  <system-out />
+  <system-err />
+</testsuite>
