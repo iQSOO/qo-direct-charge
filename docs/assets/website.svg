@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">访问 iQSOO 官网</title>
+<desc id="desc">前往 www.iqsoo.com，查看使用教程、项目更新与更多实用工具。</desc>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#F4F7FC"/><stop offset="1" stop-color="#E8F0FF"/>
+  </linearGradient>
+  <linearGradient id="electric" x1="0" y1="1" x2="1" y2="0">
+    <stop stop-color="#3566E8"/><stop offset="1" stop-color="#79BEFF"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="238" rx="28" fill="url(#surface)" stroke="#DDE5F2"/>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<text x="44" y="63" font-size="23" font-weight="500" fill="#536883" >新好友 · iQSOO</text><text x="44" y="135" font-size="61" font-weight="700" fill="#13243F" >www.iqsoo.com</text><text x="46" y="185" font-size="23" font-weight="400" fill="#536883" >使用教程 · 项目更新 · 实用工具</text><circle cx="1088" cy="120" r="31" fill="#245CE0"/><path d="M1077 120h22m-9-9 9 9-9 9" fill="none" stroke="#F4F7FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="1010" y="128" font-size="23" font-weight="700" fill="#245CE0" text-anchor="end">访问官网</text>
+</g>
+</svg>

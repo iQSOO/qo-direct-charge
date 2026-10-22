@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820" role="img" aria-labelledby="title desc">
+<title id="title">QO 智能直驱</title>
+<desc id="desc">新好友开发，来自 iqsoo.com 的开源项目。Android 16 原生直驱智能管理。</desc>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#101827"/><stop offset="1" stop-color="#172C4D"/>
+  </linearGradient>
+  <linearGradient id="electric" x1="0" y1="1" x2="1" y2="0">
+    <stop stop-color="#3566E8"/><stop offset="1" stop-color="#79BEFF"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="718" height="818" rx="28" fill="url(#surface)" stroke="#2B4262"/>
+<g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<g transform="translate(44 42) scale(0.8125)">
+<rect x="0" y="0" width="64" height="64" rx="18" fill="url(#electric)" stroke="none"/>
+<path d="M37 10 19 35h13l-5 19 20-28H34Z" fill="#FFFFFF"/>
+</g><text x="114" y="65" font-size="20" font-weight="700" fill="#8EBAFF" letter-spacing="2">iQSOO  /  OPEN SOURCE</text><text x="114" y="94" font-size="21" font-weight="400" fill="#ACBDD7" >新好友开发 · iqsoo.com 开源发布</text><text x="44" y="200" font-size="66" font-weight="700" fill="#F1F5FF" >QO 智能直驱</text><text x="46" y="252" font-size="31" font-weight="500" fill="#ACBDD7" >原生直驱，按需接管。</text><g transform="translate(360 470) scale(0.95)">
+<circle r="156" fill="none" stroke="#314D73"/>
+<circle r="131" fill="none" stroke="#314D73" stroke-dasharray="2 13"/>
+<path d="M-156 0H-199a18 18 0 0 1-18-18v-45M156 0h43a18 18 0 0 0 18-18v-45" fill="none" stroke="#314D73" stroke-width="2"/>
+<circle cx="-217" cy="-68" r="5" fill="#8EBAFF"/>
+<circle cx="217" cy="-68" r="5" fill="#8EBAFF"/>
+<circle r="107" fill="#1B2B44" stroke="#2B4262"/>
+<path d="M-66-64a92 92 0 1 0 132 0" fill="none" stroke="url(#electric)" stroke-width="12" stroke-linecap="round"/>
+<path d="M14-72-41 10h34l-13 65L43-14H7Z" fill="url(#electric)"/>
+</g><text x="360" y="686" font-size="25" font-weight="500" fill="#ACBDD7" text-anchor="middle">Android 16  /  Shizuku  /  无需 Root</text><path d="M44 724H676" stroke="#314D73"/><text x="44" y="773" font-size="24" font-weight="500" fill="#F1F5FF" >iQOO Neo11 · OriginOS</text><text x="676" y="773" font-size="20" font-weight="700" fill="#8EBAFF" text-anchor="end" letter-spacing="2">01 / QO</text>
+</g>
+</svg>
