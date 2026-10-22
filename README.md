@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.iqsoo.com"><b>访问官网 www.iqsoo.com</b></a> ·
   <a href="https://www.iqsoo.com/91.html">Shizuku 启动教程</a> ·
+  <a href="https://www.iqsoo.com/7656.html"><b>完整使用教程</b></a> ·
   <a href="#下载与安装">下载 APK</a> ·
   <a href="LICENSE">MIT 开源协议</a>
 </p>
@@ -52,6 +53,8 @@ Material 3、动态颜色、深色模式和完整简体中文。首页把 Settin
 **Settings=1、Bypass=1 表示配置和厂商反馈已同步，不能单凭这两个值证明电源芯片的实际工作模式。** 本应用不改写厂商 persist 属性、温控阈值、电流、电压或原厂电池保护。
 
 ## 第一次使用
+
+完整图文讲解已发布到 [iQSOO：QO 智能直驱 1.0.1 使用教程](https://www.iqsoo.com/7656.html)，包括 Shizuku 启动、横屏触发、诊断与恢复。
 
 1. 从本页底部下载并安装 APK。升级前先暂停旧版智能管理，再覆盖安装。
 2. 按 [站内 Shizuku 启动教程](https://www.iqsoo.com/91.html) 完成无线调试配对和启动。**配对完成与服务已经启动是两件事**，应在 Shizuku 中确认服务正在运行。
